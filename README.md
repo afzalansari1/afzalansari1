@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalansari1">
-<img align="center" src="images/topImage.gif">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AFZAL....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AFZAL....;Nice+to+meet+you!&center=true&size=35">
   </a>
 </h1>
 
-<img align="right" src="images/codingimg.gif" height="330" width="320">
-<h5 align="left">
+<img align="right" src="images/codingimg.gif" height="370" width="360">
+<h5 align="center">
   
   <code><a href="https://www.linkedin.com/in/afzalansari1/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/arya_afzal/" title="Instagram Profile"><img width="22" src="images/instagram.svg" > Instagram</a></code>
