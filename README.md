@@ -1,3 +1,5 @@
+<img align="center" src="images/topImage.gif" height="260" width="390">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalansari1">
 
 <h1 align="center">
@@ -6,6 +8,8 @@
   </a>
 </h1>
 
+<p align="right">
+<img src="images/codingimg.gif" height="50" width="50">
 <h5 align="center">
   
   <code><a href="https://www.linkedin.com/in/afzalansari1/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -21,15 +25,15 @@
  Hi, I'm Afzal Ansari, Electronics and Communication Engineering Student, Passionate about Software Development
   <br>
   <br>
-  🔬 I’m currently studying B.Tech at National Institute of Technology Agartala(NITA)
+  🔬 I’m currently pursuing my B.Tech at National Institute of Technology Agartala(NITA)
   <br>
-  💻 I love writing code and learn new coding subject
+  💻 I love writing code and learn new coding subjects
   <br>
-  📚 I’m currently learning how to build android application with <a href="https://github.com/afzalansari1/Budgetify" >Kotlin</a>
+  📚 I’m currently learning how to build android application with <a href="https://github.com/afzalansari1/Budgetify" >**Kotlin**</a>
   <br>
-  📚 And also I am actively engaged in learning and practicing DSA (Data Structures and Algorithms)
+  📚 And also I am actively engaged in learning and practicing **DSA** (Data Structures and Algorithms)
   <br>
-  📫 How to reach me: <a href="mailto: afzalansari66677@gmail.com">afzalansari66677@gmail.com</a>
+  📫 How to reach me: <a href="mailto: afzalansari66677@gmail.com">**afzalansari66677@gmail.com**</a>
 </p>
 
 <hr>
