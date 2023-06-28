@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalansari1">
-<img align="center" src="images/topImage.gif" height="290" width="460">
+<img align="center" src="images/topImage.gif">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,7 @@
   </a>
 </h1>
 
-<p align="right">
-<img src="images/codingimg.gif" height="180" width="180">
+<img align="right" src="images/codingimg.gif" height="330" width="320">
 <h5 align="left">
   
   <code><a href="https://www.linkedin.com/in/afzalansari1/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -39,15 +38,15 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-   <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="Kotlin" height="25" src="images/kotlin.png"></code>
+  <code><img title="C" height="30" src="images/c.svg"></code>
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+   <code><img title="Android" height="30" src="images/android.svg"></code>
+  <code><img title="Kotlin" height="30" src="images/kotlin.png"></code>
   <br>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <!-- <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code> -->
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
@@ -77,4 +76,5 @@
 <hr>
 
 ## Watch my contributions get eaten by a snake 🐍
-![Snake animation](https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.gif)
