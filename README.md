@@ -1,6 +1,5 @@
-<img align="center" src="images/topImage.gif" height="260" width="390">
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalansari1">
+<img align="center" src="images/topImage.gif" height="290" width="460">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,8 +8,8 @@
 </h1>
 
 <p align="right">
-<img src="images/codingimg.gif" height="50" width="50">
-<h5 align="center">
+<img src="images/codingimg.gif" height="180" width="180">
+<h5 align="left">
   
   <code><a href="https://www.linkedin.com/in/afzalansari1/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/arya_afzal/" title="Instagram Profile"><img width="22" src="images/instagram.svg" > Instagram</a></code>
@@ -29,11 +28,11 @@
   <br>
   💻 I love writing code and learn new coding subjects
   <br>
-  📚 I’m currently learning how to build android application with <a href="https://github.com/afzalansari1/Budgetify" >**Kotlin**</a>
+  📚 I’m currently learning how to build android application with <a href="https://github.com/afzalansari1/Budgetify" >Kotlin</a>
   <br>
-  📚 And also I am actively engaged in learning and practicing **DSA** (Data Structures and Algorithms)
+  📚 And also I am actively engaged in learning and practicing DSA (Data Structures and Algorithms)
   <br>
-  📫 How to reach me: <a href="mailto: afzalansari66677@gmail.com">**afzalansari66677@gmail.com**</a>
+  📫 How to reach me: <a href="mailto: afzalansari66677@gmail.com">afzalansari66677@gmail.com</a>
 </p>
 
 <hr>
@@ -76,3 +75,6 @@
 </p>
 
 <hr>
+
+## Watch my contributions get eaten by a snake 🐍
+![Snake animation](https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.svg)
