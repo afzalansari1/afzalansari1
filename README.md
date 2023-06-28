@@ -42,6 +42,7 @@
    <code><img title="Android" height="30" src="images/android.svg"></code>
   <code><img title="Kotlin" height="30" src="images/kotlin.png"></code>
   <br>
+  <br>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <!-- <code><img title="CSS" height="25" src="images/css.svg"></code>
