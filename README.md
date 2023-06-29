@@ -75,12 +75,14 @@
 
 <hr>
 
-## Watch my contributions get eaten by a snake 🐍
+<!--## Watch my contributions get eaten by a snake 🐍-->
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+![snake gif]
+(https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.gif)
 
 
 
