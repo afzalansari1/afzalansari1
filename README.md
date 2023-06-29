@@ -81,8 +81,6 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-![snake gif]
-(https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.gif)
-
+![afzalansari1 snake gif](https://github.com/afzalansari1/afzalansari1/blob/output/github-contribution-grid-snake.svg)
 
 
